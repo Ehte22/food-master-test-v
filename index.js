@@ -16,7 +16,7 @@ app.use(express.json())
 app.use(cookieParser())
 
 const corsOptions = {
-    origin: "https://food-master-test-v-client.vercel.app",
+    origin: "https://food-master-test-v.vercel.app",
     credentials: true
 };
 
