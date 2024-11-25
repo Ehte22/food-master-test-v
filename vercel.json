@@ -1,6 +1,6 @@
 {
-    "installCommand": "npm install --legacy-peer-deeps",
     "version": 2,
+    "installCommand": "npm install --legacy-peer-deeps",
     "builds": [
         {
             "src": "index.js",
